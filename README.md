@@ -17,7 +17,7 @@ It includes two main dashboards:
 
 
 🚀 Dashboard Highlights
-Sales Overview Dashboard**
+Sales Overview Dashboard
 - 📌 Loyalty points by country  
 - 📌 Quantity sold by product  
 - 📌 Median sales distribution by country  
@@ -41,6 +41,7 @@ How to Use
 - Excel/CSV (data sources)  
 
  📷 Dashboard Previews
+ 
  Sales Overview
 <img width="806" height="491" alt="image" src="https://github.com/user-attachments/assets/9c1ff0d4-487c-4dcc-850c-c528b1e36338" />
 
