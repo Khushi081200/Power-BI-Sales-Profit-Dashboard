@@ -46,7 +46,7 @@ How to Use
 
 
  Profit Overview
-<img width="794" height="489" alt="image" src="https://github.com/user-attachments/assets/7a4d52fc-771a-432e-84dc-057a8cae3e30" />
+<img width="806" height="491" alt="image" src="https://github.com/user-attachments/assets/7a4d52fc-771a-432e-84dc-057a8cae3e30" />
 
 
 
